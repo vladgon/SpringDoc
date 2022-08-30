@@ -1,0 +1,8 @@
+spring:
+  webflux:
+    base-path: /prefix
+springdoc:
+  webjars:
+    prefix: /swagger
+  swagger-ui:
+    use-root-path: true
